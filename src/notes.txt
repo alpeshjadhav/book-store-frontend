@@ -1,0 +1,7 @@
+Create account in firebase.
+Confirgure project in firebase.
+Register App: -> Application default name
+Add Firebase SDK: -> confidantial code of App like-> Firebase configuration
+Confirgure Firebase in VS code:
+-> npm install firebase
+-> copy the code from console.
